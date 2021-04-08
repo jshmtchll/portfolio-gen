@@ -1,6 +1,8 @@
 # Developer Portfolio Generator
 This command-line application dynamically generates a HTML file with users Github info
 
+![example](img/example.png)
+
 ## Getting Started
 All of the files can be loaded with your Git terminal. Copy the files to your local directory and type 
 
